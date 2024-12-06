@@ -1,6 +1,6 @@
 ## Hi!
 
-I'm Ryu, aspiring software developer in Tokyo, Japan. 
+I'm Ryu, aspiring full-time software developer in Tokyo, Japan. 
 
 Seeking full-time roles in software development and always interested to hear about any projects you're working on!
 
