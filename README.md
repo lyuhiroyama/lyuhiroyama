@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Ryu, an aspiring software developer in Tokyo, Japan. 
+I'm Ryu, aspiring software developer in Tokyo, Japan. 
 
 Seeking full-time roles in software development and always interested to hear about any projects you're working on!
 
@@ -16,7 +16,7 @@ Seeking full-time roles in software development and always interested to hear ab
 📫 Find me here...
 * [LinkedIn](https://www.linkedin.com/in/ryu-hiroyama-168436157/)
 
-[![Visits Badge](https://badges.pufler.dev/visits/lyuhiroyama)](https://badges.pufler.dev)
+![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=lyuhiroyama)
 
 
 
