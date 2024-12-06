@@ -16,7 +16,7 @@ Seeking full-time roles in software development and always interested to hear ab
 📫 Find me here...
 * [LinkedIn](https://www.linkedin.com/in/ryu-hiroyama-168436157/)
 
-[![Visits](https://badges.pufler.dev/visits/lyuhiroyama)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/lyuhiroyama)](https://badges.pufler.dev)
 
 
 
