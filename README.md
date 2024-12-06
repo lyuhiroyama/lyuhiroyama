@@ -16,7 +16,7 @@ Seeking full-time roles in software development and always interested to hear ab
 📫 Find me here...
 * [LinkedIn](https://www.linkedin.com/in/ryu-hiroyama-168436157/)
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=lyuhiroyama)
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
 
 
 
