@@ -16,7 +16,7 @@ Seeking full-time roles in software development and always interested to hear ab
 📫 Find me here...
 * [LinkedIn](https://www.linkedin.com/in/ryu-hiroyama-168436157/)
 
-![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=lyuhiroyama)
+[![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)](https://badges.pufler.dev)
 
 
 
