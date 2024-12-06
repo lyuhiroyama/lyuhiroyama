@@ -16,7 +16,8 @@ Seeking full-time roles in software development and always interested to hear ab
 📫 Find me here...
 * [LinkedIn](https://www.linkedin.com/in/ryu-hiroyama-168436157/)
 
-![Visits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F<lyuhiroyama>&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile%20Visits&edge_flat=false)
+![Visits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flyuhiroyama&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visits&edge_flat=false&total=true)
+
 
 
 
