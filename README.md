@@ -10,7 +10,7 @@ Seeking full-time roles in software development and always interested to hear ab
 * Learning new tricks on my skateboard
 
 🚢 Previously...
-* Completed a one-year Computer Information Systems certificate at the University of the Fraser Valley, Canada.
+* Completed a one-year Computer Information Systems certificate at the University of the Fraser Valley (Canada).
 * Helped 20+ students access course outlines instantly with [UFV Course Outline Finder](https://github.com/lyuhiroyama/UFV-Course-Outline-Finder).
 
 📫 Find me here...
