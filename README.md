@@ -26,11 +26,11 @@ Seeking full-time roles in software development and always interested to hear ab
 
 🛠　現在は：
 * 宿泊施設運営会社でシステムサポートスタッフとして勤務中（GAS・JavaScript・HTML・CSS）
-* [Japan Hostel Reviews](https://japanhostelreviews.com/) と [Command-L AI](!!!!!!!!!!!!!!!!!!!!!)を開発中
+* [japanhostelreviews.com](https://japanhostelreviews.com/) と [Command-L AI](https://github.com/lyuhiroyama/CommandL-AI) を開発中
 
 🚢 これまでの経験：
-* University of the Fraser Valley でコンピューター情報システムプログラムを修了（１年制）
-* 大学でのコースシラバスを瞬時にアクセスする為の [UFV Course Outline Finder]([https://japanhostelreviews.com/](https://chromewebstore.google.com/detail/ufv-course-outline-finder/mndjamfkhbpmaejlgmmmimpanhhhfkfd?hl=en)) (Chrome 拡張機能)を開発
+* University of the Fraser Valley でコンピューター情報システムプログラムを修了 (１年制 )
+* 大学でのコースシラバスを瞬時にアクセスする為の [UFV Course Outline Finder](https://chromewebstore.google.com/detail/ufv-course-outline-finder/mndjamfkhbpmaejlgmmmimpanhhhfkfd?hl=en) (Chrome 拡張機能)を開発
 
 📫 お気軽にご覧ください（よければ繋がりましょう！）：
 * [LinkedIn](https://www.linkedin.com/in/ryu-hiroyama-168436157/)
