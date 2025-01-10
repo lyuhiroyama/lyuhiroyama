@@ -30,7 +30,7 @@ Seeking full-time roles in software development and always interested to hear ab
 * [Command-L AI](https://github.com/lyuhiroyama/CommandL-AI) を個人開発中 （AIを活用したChrome拡張機能）
 
 🚢 これまでの経験：
-* University of the Fraser Valley でコンピューター情報システムプログラムを修了 (１年制 )
+* University of the Fraser Valley でコンピューター情報システムプログラムを卒業 (１年制 )
 * 大学での授業シラバスを瞬時にアクセスする為の [UFV Course Outline Finder](https://chromewebstore.google.com/detail/ufv-course-outline-finder/mndjamfkhbpmaejlgmmmimpanhhhfkfd?hl=en) (Chrome 拡張機能)を開発
 
 📫 お気軽にご覧ください（よければ繋がりましょう！）：
