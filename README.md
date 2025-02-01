@@ -21,7 +21,7 @@ Seeking full-time roles in software development and always interested to hear ab
 
 ## 廣山　龍
 
-フルタイムのエンジニア職を目指しております。
+東京でのエンジニア職を目指しております。
 エンジニアリングスキルを磨き、より深くコードに携わりたいと思っております。エンジニアリング学び、今まで想像もしなかったものを創り出せるエンジニアになりたいです！現時点ではまだ未熟でありますが、新しいことを積極的に学び、チームや会社の一員として協力し、成長していきたいと思っております。
 
 🛠　現在は：
@@ -33,8 +33,8 @@ Seeking full-time roles in software development and always interested to hear ab
 * University of the Fraser Valley でコンピューター情報システムプログラムを卒業 (１年制 )
 * 大学での授業シラバスを瞬時にアクセスする為の [UFV Course Outline Finder](https://chromewebstore.google.com/detail/ufv-course-outline-finder/mndjamfkhbpmaejlgmmmimpanhhhfkfd?hl=en) (Chrome 拡張機能)を開発
 
-📫 お気軽にご覧ください（よければ繋がりましょう！）：
-* [LinkedIn](https://www.linkedin.com/in/ryu-hiroyama-168436157/)
+<!-- 📫 お気軽にご覧ください（よければ繋がりましょう！）：
+* [LinkedIn](https://www.linkedin.com/in/ryu-hiroyama-168436157/) --->
 
 [![Visits Badge](https://badges.pufler.dev/visits/lyuhiroyama/lyuhiroyama)](https://badges.pufler.dev)
 
