@@ -26,8 +26,8 @@ Seeking full-time roles in software development and always interested to hear ab
 
 🛠　現在は：
 * 宿泊施設運営会社でシステムサポートスタッフとして勤務中（GAS・JavaScript・HTML・CSS）
-* [japanhostelreviews.com](https://japanhostelreviews.com/) を個人開発中 （国内ホステルのレビューサイト）
 * [commandL.ai](https://github.com/lyuhiroyama/commandL.ai) を個人開発中 （AIを活用したChrome拡張機能）
+* [japanhostelreviews.com](https://japanhostelreviews.com/) を個人開発中 （国内ホステルのレビューサイト）
 
 🚢 これまでの経験：
 * University of the Fraser Valley でコンピューター情報システムプログラムを卒業 (１年制 )
