@@ -26,7 +26,7 @@ Seeking full-time roles in software development and always interested to hear ab
 エンジニアリングスキルを磨き、より深くコードに携わりたいと思っております。エンジニアリング学び、今まで想像もしなかったものを創り出せるエンジニアになりたいです！現時点ではまだ未熟でありますが、新しいことを積極的に学び、チームや会社の一員として協力し、成長していきたいと思っております。
 
 🛠　現在は：
-* 宿泊施設運営会社でシステムサポートスタッフとして勤務中（GAS・JavaScript・HTML・CSS）
+* 宿泊施設運営会社でシステムサポートスタッフとして勤務中（Google Apps Script・JavaScript・HTML・CSS）
 * [commandL.ai](https://github.com/lyuhiroyama/commandL.ai) を個人開発中(優先) （AIを活用したChrome拡張機能）
 * [japanhostelreviews.com](https://japanhostelreviews.com/) を個人開発中 （国内ホステルのレビューサイト）
 
