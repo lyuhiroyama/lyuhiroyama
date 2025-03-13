@@ -37,13 +37,13 @@ Seeking full-time roles in software development and always interested to hear ab
 📫 お気軽にご覧ください（よければ繋がりましょう！）：
 * [LinkedIn](https://www.linkedin.com/in/ryu-hiroyama-168436157/) -->
 
-使用言語 : React.js・PHP・MySQL・JavaScript・HTML・CSS・SCSS
+**使用言語 :** React.js・PHP・MySQL・JavaScript・HTML・CSS・SCSS
 
-その他テクノロジー : Git・GitHub・VPS
+**その他テクノロジー :** Git・GitHub・VPS
 
 現在、東京エリアにてフロントエンド・フルスタックエンジニアとしての転職活動を行っております
 
-[ryuhiroyama.com](https://ryuhiroyama.com)
+[ポートフォリオサイトへはこちら](https://ryuhiroyama.com)
 
 [![Visits Badge](https://badges.pufler.dev/visits/lyuhiroyama/lyuhiroyama)](https://badges.pufler.dev)
 
