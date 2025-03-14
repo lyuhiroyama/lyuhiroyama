@@ -43,7 +43,7 @@ Seeking full-time roles in software development and always interested to hear ab
 
 **使用言語 :** React.js・PHP・MySQL・JavaScript・HTML・CSS・SCSS
 
-**その他テクノロジー :** Git・GitHub・VPS
+**その他テクノロジー :** Git・GitHub・VPS（サーバー）
 
 [![Visits Badge](https://badges.pufler.dev/visits/lyuhiroyama/lyuhiroyama)](https://badges.pufler.dev)
 
