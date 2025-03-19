@@ -41,9 +41,9 @@ Seeking full-time roles in software development and always interested to hear ab
 
 [ポートフォリオサイトへはこちら！](https://ryuhiroyama.com)
 
-**使用言語 :** React.js・PHP・MySQL・JavaScript・HTML・CSS・SCSS
+**使用言語 :** JavaScript, PHP, SQL, Python, Shell, Google Apps Script
 
-**その他テクノロジー :** Git・GitHub・VPS（サーバー）
+**その他テクノロジー :** Git, React, HTML, CSS, SCSS, MySQL, SQLite, VPS
 
 [![Visits Badge](https://badges.pufler.dev/visits/lyuhiroyama/lyuhiroyama)](https://badges.pufler.dev)
 
