@@ -9,7 +9,7 @@ Seeking full-time roles in software engineering and always interested to hear ab
 
 **Languages :** Google Apps Script・JS・PHP・Node.js・SQL・Python・Shell
 
-**その他テクノロジー :** Git・React・HTML・CSS・SCSS・MySQL・SQLite・VPS
+**Tools / Frameworks :** Git・React・HTML・CSS・SCSS・MySQL・SQLite・VPS
 
 [![Visits Badge](https://badges.pufler.dev/visits/lyuhiroyama/lyuhiroyama)](https://badges.pufler.dev)
 <!--
