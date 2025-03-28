@@ -1,10 +1,18 @@
-<!--
+
 ## Hi!
 
-I'm Ryu, aspiring full-time software developer in Tokyo, Japan. 
+I'm Ryu, software developer in Tokyo, Japan. 
 
-Seeking full-time roles in software development and always interested to hear about any projects you're working on!
+Seeking full-time roles in software engineering and always interested to hear about any projects you're working on!
 
+[My portfolio website！](https://ryuhiroyama.com)
+
+**Languages :** Google Apps Script・JS・PHP・Node.js・SQL・Python・Shell
+
+**その他テクノロジー :** Git・React・HTML・CSS・SCSS・MySQL・SQLite・VPS
+
+[![Visits Badge](https://badges.pufler.dev/visits/lyuhiroyama/lyuhiroyama)](https://badges.pufler.dev)
+<!--
 🛠 Currently...
 * Working as a part-time Systems Support employee at PLAY&co (GAS・JavaScript・HTML・CSS)
 * Building [Japan Hostel Reviews](https://japanhostelreviews.com/)
@@ -18,6 +26,8 @@ Seeking full-time roles in software development and always interested to hear ab
 * [LinkedIn](https://www.linkedin.com/in/ryu-hiroyama-168436157/)
 
 -->
+
+
 
 
 <!-- ## 廣山　龍 -->
@@ -37,6 +47,8 @@ Seeking full-time roles in software development and always interested to hear ab
 📫 お気軽にご覧ください（よければ繋がりましょう！）：
 * [LinkedIn](https://www.linkedin.com/in/ryu-hiroyama-168436157/) -->
 
+<!--
+
 現在、東京エリアにてフロントエンド・フルスタックエンジニアとしての転職活動を行っております
 
 [ポートフォリオサイトへはこちら！](https://ryuhiroyama.com)
@@ -46,7 +58,7 @@ Seeking full-time roles in software development and always interested to hear ab
 **その他テクノロジー :** Git・React・HTML・CSS・SCSS・MySQL・SQLite・VPS
 
 [![Visits Badge](https://badges.pufler.dev/visits/lyuhiroyama/lyuhiroyama)](https://badges.pufler.dev)
-
+-->
 
 
 
