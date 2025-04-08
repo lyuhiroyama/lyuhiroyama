@@ -3,13 +3,13 @@
 
 I'm Ryu, software developer in Tokyo, Japan. 
 
-Seeking full-time roles in software engineering and always interested to hear about any projects you're working on!
+Seeking full-time roles and always interested to hear about any projects you're working on!
 
 [My portfolio website！](https://ryuhiroyama.com)
 
-**Languages :** Google Apps Script・JS・PHP・Node.js・SQL・Python・Shell
+**Languages :** Google Apps Script・JS・SQL・Python・Shell
 
-**Tools / Frameworks :** Git・React・HTML・CSS・SCSS・MySQL・SQLite・VPS
+**Tools / Frameworks :** Git・React・HTML・SCSS・MySQL・SQLite・VPS
 
 [![Visits Badge](https://badges.pufler.dev/visits/lyuhiroyama/lyuhiroyama)](https://badges.pufler.dev)
 <!--
