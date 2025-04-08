@@ -5,7 +5,7 @@ I'm Ryu, software developer in Tokyo.
 
 Seeking full-time roles and always interested to hear about any projects you're working on!
 
-[My portfolio website！](https://ryuhiroyama.com)
+[My portfolio website!](https://ryuhiroyama.com)
 
 **Languages :** Google Apps Script・JS・SQL・Python・Shell
 
