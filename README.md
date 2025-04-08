@@ -1,7 +1,7 @@
 
 ## Hi!
 
-I'm Ryu, software developer in Tokyo, Japan. 
+I'm Ryu, software developer in Tokyo. 
 
 Seeking full-time roles and always interested to hear about any projects you're working on!
 
