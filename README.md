@@ -7,9 +7,9 @@ Seeking full-time roles and always interested to hear about any projects you're 
 
 [My portfolio website!](https://ryuhiroyama.com)
 
-**Languages :** Google Apps Script・JS・SQL・Python・Shell
+**Languages :** TypeScript・Ruby・SQL
 
-**Tools / Frameworks :** Git・React・HTML・SCSS・MySQL・SQLite・VPS
+**Tools / Frameworks :** React・SCSS・MySQL・Git・VPS
 
 [![Visits Badge](https://badges.pufler.dev/visits/lyuhiroyama/lyuhiroyama)](https://badges.pufler.dev)
 <!--
