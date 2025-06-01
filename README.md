@@ -9,7 +9,7 @@ Seeking full-time roles and always interested to hear about any projects you're 
 
 **Languages :** TypeScript・Ruby・SQL
 
-**Tools / Frameworks :** React・SCSS・MySQL・Git・VPS
+**Tools / Frameworks :** React・SCSS・Git・VPS
 
 [![Visits Badge](https://badges.pufler.dev/visits/lyuhiroyama/lyuhiroyama)](https://badges.pufler.dev)
 <!--
