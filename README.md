@@ -11,7 +11,7 @@ Seeking new opportunities and always interested to hear about any projects you'r
 
 **Tools / Frameworks :** React・SCSS・Git・VPS
 
-📚 Check out my study notes here: [My Notion Notes](https://cuddly-sunflower-42d.notion.site/My-programming-notes-116ec724414c4734a98f498a788a3c79) (Currently studying Ruby On Rails!)
+📚 Check out my study notes here: [My Notion Notes](https://cuddly-sunflower-42d.notion.site/My-programming-notes-116ec724414c4734a98f498a788a3c79) (Currently studying **Ruby On Rails!**)
 
 [![Visits Badge](https://badges.pufler.dev/visits/lyuhiroyama/lyuhiroyama)](https://badges.pufler.dev)
 <!--
