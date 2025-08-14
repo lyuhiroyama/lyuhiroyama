@@ -7,7 +7,7 @@ Seeking new opportunities and always interested to hear about any projects you'r
 
 [My portfolio website!](https://ryuhiroyama.com)
 
-**Languages :** JavaScript・TypeScript・PHP・Ruby・SQL
+**Languages :** JavaScript・TypeScript・Ruby・SQL
 
 **Tools / Frameworks :** React・SCSS・Git・VPS
 
