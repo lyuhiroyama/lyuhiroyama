@@ -15,7 +15,7 @@ Seeking new opportunities and always interested to hear about any projects you'r
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=lyuhiroyama)](https://github.com/lyuhiroyama/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyuhiroyama)](https://github.com/lyuhiroyama/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyuhiroyama&hide=liquid,html,css)
 
 <!-- [![Visits Badge](https://badges.pufler.dev/visits/lyuhiroyama/lyuhiroyama)](https://badges.pufler.dev) -->
 <!--
