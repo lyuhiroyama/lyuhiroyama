@@ -5,7 +5,7 @@ I'm Ryu, software developer in Tokyo.
 
 Seeking new opportunities and always interested to hear about any projects you're working on!
 
-[My portfolio website!](https://ryuhiroyama.com)
+<!-- [My portfolio website!](https://ryuhiroyama.com) -->
 
 **Languages :** JavaScript・TypeScript・Ruby・SQL
 
