@@ -9,11 +9,11 @@ Seeking new opportunities and always interested to hear about any projects you'r
 
 **Languages :** JavaScript・TypeScript・Ruby・SQL
 
-**Tools / Frameworks :** React・SCSS・Git・VPS
+**Tools / Frameworks :** React・Rails・Git・VPS
 
-📚 Check out my study notes here: [My Notion Notes](https://cuddly-sunflower-42d.notion.site/My-programming-notes-116ec724414c4734a98f498a788a3c79) (Currently learning **Ruby On Rails!**)
+📚 Check out my study notes here: [My Notion Notes](https://cuddly-sunflower-42d.notion.site/My-programming-notes-116ec724414c4734a98f498a788a3c79)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=lyuhiroyama)](https://github.com/lyuhiroyama/github-readme-stats)
+<!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=lyuhiroyama)](https://github.com/lyuhiroyama/github-readme-stats) -->
 
 
 
