@@ -9,7 +9,7 @@ Seeking new opportunities and always interested to hear about any projects you'r
 
 **Languages :** JavaScript・TypeScript・Ruby・SQL
 
-**Tools / Frameworks :** React・Rails・Git・VPS
+**Tools / Frameworks :** React・CSS Modules・Ruby on Rails・Git・VPS
 
 📚 Check out my study notes here: [My Notion Notes](https://cuddly-sunflower-42d.notion.site/My-programming-notes-116ec724414c4734a98f498a788a3c79)
 
