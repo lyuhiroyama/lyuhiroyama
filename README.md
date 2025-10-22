@@ -1,6 +1,6 @@
-<div align="center">
-<div style="display: flex; gap: 20px;">
-<div style="flex: 1;">
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
 
 ## Hi!
 
@@ -14,8 +14,8 @@ Seeking new opportunities and always interested to hear about any projects you'r
 
 📚 Check out my study notes here: [My Notion Notes](https://cuddly-sunflower-42d.notion.site/My-programming-notes-116ec724414c4734a98f498a788a3c79)
 
-</div>
-<div style="flex: 1;">
+</td>
+<td width="50%" valign="top" align="center">
 
 ## こんにちは！
 
@@ -29,6 +29,6 @@ Seeking new opportunities and always interested to hear about any projects you'r
 
 学習用ノートを公開してます、どうぞご覧ください！： [My Notion Notes](https://cuddly-sunflower-42d.notion.site/My-programming-notes-116ec724414c4734a98f498a788a3c79)
 
-</div>
-</div>
-</div>
+</td>
+</tr>
+</table>
