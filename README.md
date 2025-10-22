@@ -1,4 +1,4 @@
-<table>
+<table style="border-collapse: collapse; border: none;">
 <tr>
 <td width="50%" valign="top" align="center">
 
@@ -27,7 +27,7 @@ Seeking new opportunities and always interested to hear about any projects you'r
 
 **その他技術 :** React・CSS・Ruby on Rails・Git・VPS・Cursor AI
 
-学習用ノートを公開してます、どうぞご覧ください！： [My Notion Notes](https://cuddly-sunflower-42d.notion.site/My-programming-notes-116ec724414c4734a98f498a788a3c79)
+📚学習ノートを公開してます！！： [ノーションリンク](https://cuddly-sunflower-42d.notion.site/My-programming-notes-116ec724414c4734a98f498a788a3c79)
 
 </td>
 </tr>
