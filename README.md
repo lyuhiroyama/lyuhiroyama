@@ -8,9 +8,13 @@ I'm Ryu, software developer in Tokyo.
 
 Seeking new opportunities and always interested to hear about any projects you're working on!
 
-**Languages :** JavaScript・TypeScript・Ruby・SQL・Shell
+<h4>Languages</h4>
 
-**Tools / Frameworks :** React・CSS・Ruby on Rails・Git・VPS・Cursor AI
+JavaScript・TypeScript・Ruby・SQL・Shell
+
+<h4>Tools / Frameworks</h4>
+
+React・CSS・Ruby on Rails・Git・VPS・Cursor AI
 
 📚 Check out my study notes here: [My Notion Notes](https://cuddly-sunflower-42d.notion.site/My-programming-notes-116ec724414c4734a98f498a788a3c79)
 
@@ -23,11 +27,15 @@ Seeking new opportunities and always interested to hear about any projects you'r
 
 エンジニアリングスキルを磨き、チームや会社の一員として協力し、成長していきたいと思っております。
 
-**使用言語 :** JavaScript・TypeScript・Ruby・SQL・Shell
+<h4>使用言語</h4>
 
-**その他技術 :** React・CSS・Ruby on Rails・Git・VPS・Cursor AI
+JavaScript・TypeScript・Ruby・SQL・Shell
 
-📚学習ノートを公開してます！！： [ノーションリンク](https://cuddly-sunflower-42d.notion.site/My-programming-notes-116ec724414c4734a98f498a788a3c79)
+<h4>その他技術</h4>
+
+React・CSS・Ruby on Rails・Git・VPS・Cursor AI
+
+📚学習ノートを公開してます！： [Notion リンク](https://cuddly-sunflower-42d.notion.site/My-programming-notes-116ec724414c4734a98f498a788a3c79)
 
 </td>
 </tr>
