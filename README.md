@@ -1,6 +1,6 @@
 <table style="border-collapse: collapse; border: none;">
 <tr>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top" align="center" style="border: none;">
 
 ## Hi!
 
@@ -19,7 +19,7 @@ React・CSS・Ruby on Rails・Git・VPS・Cursor AI
 📚 Check out my study notes here: [My Notion Notes](https://cuddly-sunflower-42d.notion.site/My-programming-notes-116ec724414c4734a98f498a788a3c79)
 
 </td>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top" align="center" style="border: none;">
 
 ## こんにちは！
 
