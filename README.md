@@ -17,7 +17,7 @@ JavaScript・TypeScript・Ruby・SQL・Shell
 React・CSS・Ruby on Rails・Git・VPS・Cursor AI
 
 📚 Check out my study notes here: [My Notion Notes](https://cuddly-sunflower-42d.notion.site/My-programming-notes-116ec724414c4734a98f498a788a3c79)
-<br/>
+<br></br>
 
 </td>
 <td width="50%" valign="top" align="center" style="border: none;">
@@ -37,7 +37,7 @@ JavaScript・TypeScript・Ruby・SQL・Shell
 React・CSS・Ruby on Rails・Git・VPS・Cursor AI
 
 📚学習ノートを公開してます！： [Notion リンク](https://cuddly-sunflower-42d.notion.site/My-programming-notes-116ec724414c4734a98f498a788a3c79)
-<br/>
+<br></br>
 
 </td>
 </tr>
