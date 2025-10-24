@@ -36,7 +36,7 @@ JavaScript・TypeScript・Ruby・SQL・Shell
 
 React・CSS・Ruby on Rails・Git・VPS・Cursor AI
 
-📚学習ノートを公開してます！： [Notion リンク](https://cuddly-sunflower-42d.notion.site/My-programming-notes-116ec724414c4734a98f498a788a3c79)
+📚学習ノートも公開してます！： [Notion リンク](https://cuddly-sunflower-42d.notion.site/My-programming-notes-116ec724414c4734a98f498a788a3c79)
 <br></br>
 
 </td>
