@@ -52,10 +52,10 @@ React・CSS・Ruby on Rails・Git・VPS・Cursor AI
 
 <h4>使用言語</h4>
 
-JavaScript・TypeScript・Ruby・SQL・Shell
+JavaScript・TypeScript・Ruby・Shell
 
 <h4>その他技術</h4>
 
-React・CSS・Ruby on Rails・Git・VPS・Cursor AI
+React・Ruby on Rails・CSS・Git・VPS
 
 📚学習ノートも公開してます！： [Notion リンク](https://cuddly-sunflower-42d.notion.site/My-programming-notes-116ec724414c4734a98f498a788a3c79)
