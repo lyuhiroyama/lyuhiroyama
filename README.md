@@ -1,4 +1,3 @@
-## My Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyuhiroyama&layout=compact)
 
 <!-- <table style="border-collapse: collapse; border: none;">
